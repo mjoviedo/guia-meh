@@ -124,11 +124,11 @@ background:#ededed;
 /* eXeLearning Style Designer */
 .iDevice_header{
 /*emTitleBGColor*/
-background-color:#ffffff;border-color:#dddddd;
+background-color:#dddddd;border-color:#dddddd;
 }
 .iDevice_inner{
 /*emBGColor*/
-background-color:#ffffff;border-color:/*emBorderColor*/
+background-color:#dddddd;border-color:/*emBorderColor*/
 #dddddd;
 }
 .iDeviceTitle{
@@ -161,27 +161,39 @@ background-image:url(icon_info.png);
 .ReflectionIdevice .iDeviceTitle{
 background-image:url(icon_account.png);
 }
+.toggle-em0 a{
+/*noEmIconColor*/
+background-image:url(_style_icons_white.png);
+}
 body{
 /*bodyColor*/
-color:#333333;
+color:#3f3f3f;
 /*contentBGColor*/
 background-color:#f9f9f9;
 }
 a{
 /*aColor*/
-color:#2495ff;
+color:#003f7f;
 }
 #header,#emptyHeader,#nodeDecoration{
 height:auto!important;
 /*headerHeight*/
 height:120px;min-height:120px;
 /*headerBGColor*/
-background-color:#ffffff;border:1px solid /*headerBorderColor*/
+background-color:#ffffff;
+/*headerBGURL*/
+background-image:url(https://images.unsplash.com/photo-1500462918059-b1a0cb512f1d);
+/*headerBGRepeat*/
+background-repeat:repeat;
+/*headerBGPosition*/
+background-position:0 0;border:1px solid /*headerBorderColor*/
 #dddddd;
 }
 #headerContent{
 /*headerTitleTopMargin*/
 padding-top:70px;
+/*headerTitleColor*/
+color:#f2f2f2;
 }
 #siteFooter{
 border:1px solid /*footerBorderColor*/
