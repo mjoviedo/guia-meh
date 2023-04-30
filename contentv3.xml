@@ -15,7 +15,7 @@
   <string role="key" value="_author"></string>
   <unicode value="FyPE - FCE UNC"></unicode>
   <string role="key" value="_backgroundImg"></string>
-  <instance class="exe.engine.resource.Resource" reference="87">
+  <instance class="exe.engine.resource.Resource" reference="89">
    <dictionary>
     <string role="key" value="_idevice"></string>
     <none></none>
@@ -24,9 +24,9 @@
     <string role="key" value="_storageName"></string>
     <string value="verde-hipermedia.png"></string>
     <string role="key" value="_userName"></string>
-    <string value="/var/folders/gs/jzymq441639c_k9dc0qd55_00000gn/T/tmpmhqFAP/verde-hipermedia.png"></string>
+    <string value="/Users/marcos/Downloads/verde-hipermedia.png"></string>
     <string role="key" value="checksum"></string>
-    <string value="4f18ad8b0c9c52909932feea1e0bd256"></string>
+    <string value="b50175bc07f10e786d77208e87241791"></string>
     <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
     <int value="2"></int>
     <string role="key" value="exe.engine.resource._Resource.persistenceVersion"></string>
@@ -108,7 +108,7 @@
   <string role="key" value="_name"></string>
   <unicode value="guiameh"></unicode>
   <string role="key" value="_nextIdeviceId"></string>
-  <int value="41"></int>
+  <int value="42"></int>
   <string role="key" value="_nextNodeId"></string>
   <int value="10"></int>
   <string role="key" value="_nodeIdDict"></string>
@@ -1351,6 +1351,8 @@
 &lt;p&gt;A modo ilustrativo pueden revisar cómo respondimos estas preguntas en el desarrollo de los dos prototipos:&lt;/p&gt;
 &lt;div class=&quot;exe-fx exe-carousel&quot;&gt;
 &lt;h2&gt;🛣 Taller de metodología&lt;/h2&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;[&lt;a href=&quot;https://marcuse99.gitlab.io/estrategias-metodologicas/web/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Ver material&lt;/a&gt;]&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;¿Qué tema queremos trabajar?&lt;em&gt; (¿qué?)&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
 &lt;p style=&quot;padding-left: 30px;&quot;&gt;Todos los contenidos del taller “Estrategias metodológicas de la enseñanza”&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;¿Cuáles son los objetivos de aprendizaje que buscamos propiciar con el material? &lt;em&gt;(¿para qué?)&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
@@ -1368,6 +1370,7 @@
 &lt;p&gt;&lt;strong&gt;¿Cómo reforzaremos el aprendizaje dentro del material? &lt;em&gt;Se refiere a la acción esperada: ¿qué queremos que el estudiante realice?&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
 &lt;p style=&quot;padding-left: 30px;&quot;&gt;Esperamos que el material presente los contenidos de formas más claras, segmentadas, ilustradas e interactivas, con pequeñas actividades de autoevaluación.&lt;/p&gt;
 &lt;h2 style=&quot;padding-left: 30px;&quot;&gt;&lt;strong&gt;🛒 Comercio electrónico&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;[&lt;a href=&quot;https://h5p.org/h5p/embed/1304801&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Ver material&lt;/a&gt;]&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;¿Qué tema queremos trabajar? &lt;em&gt;(¿qué?)&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
 &lt;p style=&quot;padding-left: 30px;&quot;&gt;El programa de la materia y los contenidos de la primera unidad.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;¿Cuáles son los objetivos de aprendizaje que buscamos propiciar con el material? &lt;em&gt;(¿para qué?)&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
@@ -1982,6 +1985,7 @@
                     <unicode content="true" value="&lt;div class=&quot;exe-text&quot;&gt;&lt;p&gt;Veamos cómo se trabajó durante esta etapa en el desarrollo de los prototipos:&lt;/p&gt;
 &lt;div class=&quot;exe-fx exe-carousel&quot;&gt;
 &lt;h2&gt;🛣 Taller de metodología&lt;/h2&gt;
+&lt;p&gt;[&lt;a href=&quot;https://marcuse99.gitlab.io/estrategias-metodologicas/web/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Ver material&lt;/a&gt;]&lt;/p&gt;
 &lt;p&gt;Partimos de un material en formato &lt;a href=&quot;https://drive.google.com/file/d/1Ol8A0qc79-17doHSOlg-Bzbedos2WmTu/view?pli=1&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;PDF de 20 páginas&lt;/a&gt; que contiene la totalidad de los contenidos del taller. Está dividido en:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;introducción,&lt;/li&gt;
@@ -1993,6 +1997,7 @@
 &lt;p&gt;A partir de allí, fuimos clasificando los contenidos y bocetando mejor un mapa del material a producir:&lt;/p&gt;
 &lt;p&gt;&lt;img src=&quot;resources/mapa-metodo.jpg&quot; alt=&quot;mapa conceptual de la arquitectura propuesta&quot; title=&quot;mapa conceptual de la arquitectura propuesta&quot; width=&quot;1042&quot; height=&quot;959&quot; /&gt;&lt;/p&gt;
 &lt;h2&gt;🛒 Comercio electrónico&lt;/h2&gt;
+&lt;p&gt;[&lt;a href=&quot;https://h5p.org/h5p/embed/1304801&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Ver material&lt;/a&gt;]&lt;/p&gt;
 &lt;p&gt;Observamos que la organización de la materia en el aula &lt;em&gt;moodle&lt;/em&gt; es clara y funcional a las tareas que allí deben realizarse. En ese sentido, vemos que el menú principal es correctamente aprovechado para disponer los acceso a las carpetas principales: presentación, las 6 unidades que integran la materia y otras carpetas útiles (trabajo final, recursos, evaluación, etc). A su vez, la clasificación de los contenidos está asociada al orden establecido en el programa de la materia, por lo que resulta conveniente la propuesta de navegación lineal.&lt;/p&gt;
 &lt;p&gt;En relación al objetivo de este prototipo, creemos que podrían incluirse algunos recursos que potencien la experiencia usuaria:&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Integrar diferentes tipos de contenido dentro de un video interactivo:&lt;/strong&gt; en cada unidad de la materia se presentan una serie de contenidos visuales, audiovisuales, textuales, icono verbales e hipertextuales que se encuentran distribuidos en cada pestaña del aula moodle. En este caso, la idea es ofrecer organizar un recorrido a través de los contenidos principales e integrarlos dentro de un video que mantenga al estudiante en esa pantalla sin tener que navegar por otras pestañas, presentándole videos con lecciones y actividades interactivas o recursos complementarios para profundizar los conocimientos.&lt;/p&gt;
@@ -2851,6 +2856,7 @@
 &lt;p&gt;Así es como encaramos esta etapa durante el desarrollo de los dos materiales de este proyecto:&lt;/p&gt;
 &lt;div class=&quot;exe-fx exe-carousel&quot;&gt;
 &lt;h2&gt;🛣 Taller de metodología&lt;/h2&gt;
+&lt;p&gt;[&lt;a href=&quot;https://marcuse99.gitlab.io/estrategias-metodologicas/web/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Ver material&lt;/a&gt;]&lt;/p&gt;
 &lt;p&gt;Revisando los contenidos en profundidad vimos que el índice del material: &lt;strong&gt;no tenía enlaces internos que permitieran saltar rápidamente a los distintos capítulos del documento&lt;/strong&gt;, que presentaba varios &lt;strong&gt;enlaces a videos&lt;/strong&gt; de youtube,&lt;/p&gt;
 &lt;p&gt;&lt;img src=&quot;resources/enlace-yt.jpg&quot; alt=&quot;enlaces a youtube&quot; title=&quot;enlaces a youtube&quot; style=&quot;display: block; margin-left: auto; margin-right: auto;&quot; width=&quot;468&quot; height=&quot;181&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;y presentaba una serie de fotografías de apuntes que no alcanzaban a leerse.&lt;/p&gt;
@@ -2859,6 +2865,7 @@
 &lt;p&gt;Se pensó sumar también algunos ejercicios simples (multiple choice, verdaderos y falsos) al finalizar cada sección como pequeñas autoevaluaciones. Este punto se dejó para una futura edición.&lt;/p&gt;
 &lt;p&gt;A partir de lo comentado, elegimos trabajar con la herramienta &lt;a title=&quot;eXelearning&quot; class=&quot;exe-dialog-link&quot; rel=&quot;lightbox&quot; href=&quot;#t422a0f6d-6dc7-8d36-a1d5-98443e2b3e7e&quot; id=&quot;link422a0f6d-6dc7-8d36-a1d5-98443e2b3e7e&quot;&gt;&lt;strong&gt;eXelearning&lt;/strong&gt;&lt;/a&gt;. Este editor cumplía todos los requisitos aquí mencionados y además nos permitía exportar para utilizar en entornos virtuales de enseñanza (como paquete SCORM) y, sin mayor esfuerzo, como una página web autónoma (en formato HTML) con la idea (ya mencionada en los objetivos) de que material pudiese estar disponible de manera abierta por fuera del aula virtual y sin disminuir la calidad de la experiencia.&lt;/p&gt;
 &lt;h2&gt;🛒 Comercio electrónico&lt;/h2&gt;
+&lt;p&gt;[&lt;a href=&quot;https://h5p.org/h5p/embed/1304801&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Ver material&lt;/a&gt;]&lt;/p&gt;
 &lt;p&gt;Uno de los contenidos que más se destacan visualmente en el aula Moodle de la materia es el audiovisual, a través del los cuales se desarrollan las lecciones de cada unidad mientras se comparten presentaciones multimedia de Google Slides. La duración de los videos puede clasificarse de la siguiente manera: corta (media hora o menos), mediana (más de media hora y hasta una hora) y larga (más de 1 hora). A partir de la duración de los videos, podríamos establecer alguna recomendación sobre cuántas paradas debería agregarse para ayudar al estudiante a ejercitar los conceptos que allí se presentan. Por ejemplo, cada 10 min. agregar alguna parada para repasar los conceptos más importantes.&lt;/p&gt;
 &lt;p&gt;En relación a lo anterior, creemos que la producción de videos podría aprovecharse más si se agregaran algunos de los siguientes recursos provistos por H5P:&lt;/p&gt;
 &lt;div class=&quot;exe-layout-3-cols exe-clear&quot;&gt;
@@ -3838,6 +3845,7 @@
 &lt;p&gt;Compartimos algunas notas interesantes sobre esta etapa surgidas en la elaboración de los prototipos, especial atención al caso de Metodología:&lt;/p&gt;
 &lt;div class=&quot;exe-fx exe-carousel&quot;&gt;
 &lt;h2&gt;🛣 Taller de metodología&lt;/h2&gt;
+&lt;p&gt;[&lt;a href=&quot;https://marcuse99.gitlab.io/estrategias-metodologicas/web/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Ver material&lt;/a&gt;]&lt;/p&gt;
 &lt;p&gt;Para el diseño del material nos propusimos generar una interfaz luminosa con mucho aire, que diera la sensación de calma y creatividad (situación ideal para responder a las consignas que se presentan en el material). Conversamos sobre el diseño de un material de referencia: el cuadernillo de &lt;a href=&quot;https://elgatoylacaja.com/lasolas/indice&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Las Olas&lt;/a&gt;, el Gato y la Caja (2022).&lt;/p&gt;
 &lt;p&gt;El objetivo sin dudas era diseñar un espacio de “retiro espiritual virtual”, una interfaz que transmita calma, propicie la reflexión, la creatividad y genere el deseo de regresar (o tener el material a mano) para inspirarse en la preparación de las clases.&lt;/p&gt;
 &lt;p&gt;Con este norte en un primer momento trabajamos el concepto de cuaderno de bocetos y notas de acuarelas (asemejando la planificación de una clase con la producción de una obra de arte).&lt;/p&gt;
@@ -3845,13 +3853,18 @@
 &lt;p&gt;Pero esta estética requería un proceso creativo bastante largo y complejo, y entendimos que debía ser un material que pudiera ser replicable en otras instancias académicas. Buscando alternativas propusimos la metáfora del diario de viajes, que curiosamente resultó coincidir con la etimología de la palabra &quot;metodología&quot; (en griego &quot;odos&quot; está relacionado al camino, la ruta). En esta línea, nos propusimos ilustrar el material con imágenes relacionadas a la temática (en tonos pasteles), lo que le otorgó una experiencia mucho más interesante y coherente que la propuesta en un primer momento.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;La búsqueda estética en esta etapa puede dar lugar a la serendipia.&lt;/strong&gt;&lt;/p&gt;
 &lt;h2&gt;🛒 Comercio electrónico&lt;/h2&gt;
-&lt;p&gt;Para la presentación visual nos proponemos acompañar los contenidos de la materia a través de un mismo código visual que nos permita generar una experiencia usuaria entretenida y agradable. Para ello exploramos diferentes recursos abiertos y gratuitos que sean fáciles de utilizar. De este modo, en lugar de utilizar imágenes o videos para presentar ejemplos o casos, seleccionaremos imágenes, colores, tipografías, entre otros elementos. &lt;/p&gt;
-&lt;p&gt;IMÁGENES&lt;br /&gt;Seleccionar  imágenes de  oficinas, reuniones, salas de informática, equipos de trabajo, etc.&lt;/p&gt;
-&lt;p&gt;Unsplash&lt;br /&gt;Wellcome collection&lt;br /&gt;FindA&lt;/p&gt;
-&lt;p&gt;VIDEOS&lt;br /&gt;Youtube&lt;/p&gt;
-&lt;p&gt;ELEMENTOS GRÁFICOS&lt;br /&gt;Freepik&lt;br /&gt;Envato&lt;/p&gt;
-&lt;p&gt;TIPOGRAFÍAS&lt;br /&gt;Dafonts&lt;br /&gt;Google fonts&lt;/p&gt;
-&lt;p&gt;PALETA DE COLORES&lt;br /&gt;Coolors&lt;/p&gt;
+&lt;p&gt;[&lt;a href=&quot;https://h5p.org/h5p/embed/1304801&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Ver material&lt;/a&gt;]&lt;/p&gt;
+&lt;p&gt;Para la presentación visual nos propusimos acompañar los contenidos de la materia a través de un mismo código visual que nos permita generar una experiencia usuaria entretenida y agradable. Para ello exploramos diferentes recursos abiertos y gratuitos que sean fáciles de utilizar. De este modo, en lugar de utilizar imágenes o videos para presentar ejemplos o casos, seleccionamos imágenes, colores, tipografías, entre otros elementos. &lt;/p&gt;
+&lt;p&gt;IMÁGENES: Seleccionar imágenes de oficinas, reuniones, salas de informática, equipos de trabajo, etc.&lt;/p&gt;
+&lt;p style=&quot;padding-left: 30px;&quot;&gt;&lt;a href=&quot;https://unsplash.com/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Unsplash&lt;/a&gt;&lt;br /&gt;&lt;a href=&quot;https://www.chamberofcommerce.org/findaphoto/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Finda Photo&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;VIDEOS&lt;/p&gt;
+&lt;p style=&quot;padding-left: 30px;&quot;&gt;&lt;a href=&quot;https://www.youtube.com&quot;&gt;Youtube&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;ELEMENTOS GRÁFICOS&lt;/p&gt;
+&lt;p style=&quot;padding-left: 30px;&quot;&gt;&lt;a href=&quot;https://www.freepik.es&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Freepik&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;TIPOGRAFÍAS&lt;/p&gt;
+&lt;p style=&quot;padding-left: 30px;&quot;&gt;&lt;a href=&quot;https://fontlibrary.org/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Font Library&lt;/a&gt;&lt;br /&gt;&lt;a href=&quot;https://www.dafont.com/es/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Dafonts&lt;/a&gt;&lt;br /&gt;&lt;a href=&quot;https://fonts.google.com&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Google fonts&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;PALETA DE COLORES&lt;/p&gt;
+&lt;p style=&quot;padding-left: 30px;&quot;&gt;&lt;a href=&quot;https://coolors.co&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Coolors&lt;/a&gt;&lt;br /&gt;&lt;a href=&quot;https://www.color-hex.com/color-palettes/popular.php&quot;&gt;Color hex&lt;/a&gt;&lt;br /&gt;&lt;a href=&quot;https://realtimecolors.com/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Realtime colors&lt;/a&gt;&lt;/p&gt;
 &lt;/div&gt;&lt;/div&gt;"></unicode>
                     <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
                     <int value="4"></int>
@@ -4660,6 +4673,7 @@
                     <unicode content="true" value="&lt;div class=&quot;exe-text&quot;&gt;&lt;p&gt;Para esta última etapa se diseñó un testeo similar para cada prototipo, sólo se modificaron las tareas específicas solicitadas (relacionadas a los objetivos de cada material). Para cada caso se hicieron tres entrevistas, una por persona con distintos perfiles: docente, profesional de la educación y estudiante. La modalidad fue por videoconferencia, lo que como ya mencionamos facilitó ver y grabar la pantalla de cada usuario.&lt;/p&gt;
 &lt;div class=&quot;exe-fx exe-carousel&quot;&gt;
 &lt;h2&gt;🛒 Comercio electrónico&lt;/h2&gt;
+&lt;p&gt;[&lt;a href=&quot;https://h5p.org/h5p/embed/1304801&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Ver material&lt;/a&gt;]&lt;/p&gt;
 &lt;p&gt;El guion preparado para este prototipo se veía de la siguiente manera:&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Primer momento: introducción (15 min.)&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;- Abrir la videollamada, iniciar la grabación.&lt;/p&gt;
@@ -4669,10 +4683,11 @@
 &lt;p&gt;- Solicitarle al usuario que abra el prototipo e inicie la opción de &lt;em&gt;Compartir pantalla&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img src=&quot;resources/guion-comercioe.png&quot; alt=&quot;guion comercio electronico&quot; title=&quot;guion comercio electronico&quot; style=&quot;display: block; margin-left: auto; margin-right: auto;&quot; width=&quot;618&quot; height=&quot;420&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Tercer momento: formulario (10 min)&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;- Invitar a completar un breve formulario&lt;/p&gt;
+&lt;p&gt;- Invitar a completar un &lt;a href=&quot;https://docs.google.com/forms/d/e/1FAIpQLSfvLUfzq_91Oj4NJFtEAk-3K1LC0OaEjB40S3K0y64NCHVh-A/viewform&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;breve formulario&lt;/a&gt; (enviar enlace)&lt;/p&gt;
 &lt;p style=&quot;padding-left: 30px;&quot;&gt;Aclarar que para la encuesta de satisfacción de usuario, se utilizará un cuestionario SUS (System Usability Questionnaire) con una escala Likert de 7 puntos, donde 1 es igual a “total desacuerdo” y 7 es igual a “totalmente de acuerdo”.&lt;/p&gt;
 &lt;p&gt;- Agradecer y despedir&lt;/p&gt;
 &lt;h2&gt;🛣 Taller de metodología&lt;/h2&gt;
+&lt;p&gt;[&lt;a href=&quot;https://marcuse99.gitlab.io/estrategias-metodologicas/web/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Ver material&lt;/a&gt;]&lt;/p&gt;
 &lt;p&gt;En este caso el procedimiento fue idéntico, pero las actividades a evaluar fueron:&lt;/p&gt;
 &lt;p&gt;&lt;img src=&quot;resources/guion-metodo.png&quot; alt=&quot;tabla actividades metodologia&quot; title=&quot;tabla actividades metodologia&quot; style=&quot;display: block; margin-left: auto; margin-right: auto;&quot; width=&quot;618&quot; height=&quot;373&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;A partir del test, pudimos detectar las siguientes correcciones:&lt;/p&gt;
@@ -4978,6 +4993,133 @@
                  <int value="0"></int>
                 </dictionary>
                </instance>
+               <instance class="exe.engine.jsidevice.JsIdevice" reference="81">
+                <dictionary>
+                 <string role="key" value="_title"></string>
+                 <unicode value="🚀 ¡Felicitaciones!"></unicode>
+                 <string role="key" value="_attributes"></string>
+                 <list>
+                  <tuple>
+                   <string value="title"></string>
+                   <list>
+                    <string value="Title"></string>
+                    <int value="0"></int>
+                    <int value="0"></int>
+                   </list>
+                  </tuple>
+                  <tuple>
+                   <string value="category"></string>
+                   <list>
+                    <string value="Category"></string>
+                    <int value="0"></int>
+                    <int value="1"></int>
+                   </list>
+                  </tuple>
+                  <tuple>
+                   <string value="css-class"></string>
+                   <list>
+                    <string value="CSS class"></string>
+                    <int value="0"></int>
+                    <int value="2"></int>
+                   </list>
+                  </tuple>
+                  <tuple>
+                   <string value="icon"></string>
+                   <list>
+                    <string value="Icon"></string>
+                    <int value="0"></int>
+                    <int value="3"></int>
+                   </list>
+                  </tuple>
+                 </list>
+                 <string role="key" value="_author"></string>
+                 <string value=""></string>
+                 <string role="key" value="_iDeviceDir"></string>
+                 <string value="text"></string>
+                 <string role="key" value="_purpose"></string>
+                 <string value=""></string>
+                 <string role="key" value="_tip"></string>
+                 <string value=""></string>
+                 <string role="key" value="_typeName"></string>
+                 <unicode value="Text"></unicode>
+                 <string role="key" value="_valid"></string>
+                 <bool value="1"></bool>
+                 <string role="key" value="class_"></string>
+                 <unicode value="text"></unicode>
+                 <string role="key" value="edit"></string>
+                 <bool value="0"></bool>
+                 <string role="key" value="emphasis"></string>
+                 <int value="1"></int>
+                 <string role="key" value="exe.engine.jsidevice.JsIdevice.persistenceVersion"></string>
+                 <int value="1"></int>
+                 <string role="key" value="fields"></string>
+                 <list>
+                  <instance class="exe.engine.field.TextAreaField" reference="82">
+                   <dictionary>
+                    <string role="key" value="_id"></string>
+                    <unicode value="121_2"></unicode>
+                    <string role="key" value="_idevice"></string>
+                    <reference key="81"></reference>
+                    <string role="key" value="_instruc"></string>
+                    <string value=""></string>
+                    <string role="key" value="_name"></string>
+                    <string value=""></string>
+                    <string role="key" value="anchor_names"></string>
+                    <list></list>
+                    <string role="key" value="content_w_resourcePaths"></string>
+                    <unicode content="true" value="&lt;div class=&quot;exe-text&quot;&gt;&lt;p&gt;Llegaste al final de esta guía. En este punto sólo nos queda recomendar poner manos a la obra, y no tomarse esta guía muy literal. Los pasos que propusimos son flexibles, pueden solaparse, saltearse, o rotar en su orden. Si encontraste útil esta guía o tenés algún aporte para hacernos nos encantaría saberlo.&lt;/p&gt;
+&lt;p&gt;¡Saludos y a poner manos y teclados a la obra!&lt;/p&gt;
+&lt;p&gt;Marcos, Euge y Nico&lt;/p&gt;&lt;/div&gt;"></unicode>
+                    <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
+                    <int value="4"></int>
+                    <string role="key" value="exe.engine.field.FieldWithResources.persistenceVersion"></string>
+                    <int value="2"></int>
+                    <string role="key" value="exe.engine.field.TextAreaField.persistenceVersion"></string>
+                    <int value="3"></int>
+                    <string role="key" value="htmlTag"></string>
+                    <string value="div"></string>
+                    <string role="key" value="images"></string>
+                    <instance class="exe.engine.galleryidevice.GalleryImages">
+                     <dictionary>
+                      <string role="key" value=".listitems"></string>
+                      <list></list>
+                      <string role="key" value="idevice"></string>
+                      <reference key="82"></reference>
+                     </dictionary>
+                    </instance>
+                    <string role="key" value="intlinks_to_anchors"></string>
+                    <dictionary></dictionary>
+                    <string role="key" value="nextImageId"></string>
+                    <int value="0"></int>
+                    <string role="key" value="parentNode"></string>
+                    <none></none>
+                   </dictionary>
+                  </instance>
+                 </list>
+                 <string role="key" value="icon"></string>
+                 <unicode value=""></unicode>
+                 <string role="key" value="id"></string>
+                 <unicode value="41"></unicode>
+                 <string role="key" value="ideviceCategory"></string>
+                 <unicode value="Text and Tasks"></unicode>
+                 <string role="key" value="lastIdevice"></string>
+                 <bool value="0"></bool>
+                 <string role="key" value="nextFieldId"></string>
+                 <int value="3"></int>
+                 <string role="key" value="originalicon"></string>
+                 <string value=""></string>
+                 <string role="key" value="parentNode"></string>
+                 <reference key="69"></reference>
+                 <string role="key" value="systemResources"></string>
+                 <list></list>
+                 <string role="key" value="undo"></string>
+                 <bool value="1"></bool>
+                 <string role="key" value="userResources"></string>
+                 <list></list>
+                 <string role="key" value="version"></string>
+                 <int value="0"></int>
+                </dictionary>
+               </instance>
               </list>
               <string role="key" value="_id"></string>
               <unicode value="9"></unicode>
@@ -5057,13 +5199,13 @@
       <reference key="40"></reference>
       <reference key="54"></reference>
       <reference key="69"></reference>
-      <instance class="exe.engine.node.Node" reference="83">
+      <instance class="exe.engine.node.Node" reference="85">
        <dictionary>
         <string role="key" value="_title"></string>
         <unicode value="Más información"></unicode>
         <string role="key" value="idevices"></string>
         <list>
-         <instance class="exe.engine.jsidevice.JsIdevice" reference="81">
+         <instance class="exe.engine.jsidevice.JsIdevice" reference="83">
           <dictionary>
            <string role="key" value="_title"></string>
            <unicode value=""></unicode>
@@ -5124,12 +5266,12 @@
            <int value="1"></int>
            <string role="key" value="fields"></string>
            <list>
-            <instance class="exe.engine.field.TextAreaField" reference="82">
+            <instance class="exe.engine.field.TextAreaField" reference="84">
              <dictionary>
               <string role="key" value="_id"></string>
               <unicode value="133_2"></unicode>
               <string role="key" value="_idevice"></string>
-              <reference key="81"></reference>
+              <reference key="83"></reference>
               <string role="key" value="_instruc"></string>
               <string value=""></string>
               <string role="key" value="_name"></string>
@@ -5169,7 +5311,7 @@
                 <string role="key" value=".listitems"></string>
                 <list></list>
                 <string role="key" value="idevice"></string>
-                <reference key="82"></reference>
+                <reference key="84"></reference>
                </dictionary>
               </instance>
               <string role="key" value="intlinks_to_anchors"></string>
@@ -5177,7 +5319,7 @@
               <string role="key" value="nextImageId"></string>
               <int value="0"></int>
               <string role="key" value="parentNode"></string>
-              <reference key="83"></reference>
+              <reference key="85"></reference>
              </dictionary>
             </instance>
            </list>
@@ -5194,7 +5336,7 @@
            <string role="key" value="originalicon"></string>
            <string value=""></string>
            <string role="key" value="parentNode"></string>
-           <reference key="83"></reference>
+           <reference key="85"></reference>
            <string role="key" value="systemResources"></string>
            <list></list>
            <string role="key" value="undo"></string>
@@ -5230,7 +5372,7 @@
     </dictionary>
    </instance>
    <unicode role="key" value="3"></unicode>
-   <reference key="83"></reference>
+   <reference key="85"></reference>
    <unicode role="key" value="4"></unicode>
    <reference key="16"></reference>
    <unicode role="key" value="6"></unicode>
@@ -5263,7 +5405,7 @@
   <string role="key" value="backgroundImgTile"></string>
   <bool value="0"></bool>
   <string role="key" value="currentNode"></string>
-  <reference key="4"></reference>
+  <reference key="69"></reference>
   <string role="key" value="dublinCore"></string>
   <instance class="exe.engine.package.DublinCore">
    <dictionary>
@@ -6401,7 +6543,7 @@
        <instance class="exe.engine.lom.lomsubs.contributeSub">
         <dictionary>
          <string role="key" value="date"></string>
-         <instance class="exe.engine.lom.lomsubs.dateSub" reference="84">
+         <instance class="exe.engine.lom.lomsubs.dateSub" reference="86">
           <dictionary>
            <string role="key" value="dateTime"></string>
            <instance class="exe.engine.lom.lomsubs.DateTimeValueSub">
@@ -6440,7 +6582,7 @@
          </instance>
          <string role="key" value="entity"></string>
          <list>
-          <instance class="exe.engine.lom.lomsubs.entitySub" reference="85">
+          <instance class="exe.engine.lom.lomsubs.entitySub" reference="87">
            <dictionary>
             <string role="key" value="extensiontype_"></string>
             <none></none>
@@ -6455,7 +6597,7 @@
            <string role="key" value="extensiontype_"></string>
            <none></none>
            <string role="key" value="source"></string>
-           <instance class="exe.engine.lom.lomsubs.sourceValueSub" reference="86">
+           <instance class="exe.engine.lom.lomsubs.sourceValueSub" reference="88">
             <dictionary>
              <string role="key" value="extensiontype_"></string>
              <none></none>
@@ -6505,10 +6647,10 @@
        <instance class="exe.engine.lom.lomsubs.contributeMetaSub">
         <dictionary>
          <string role="key" value="date"></string>
-         <reference key="84"></reference>
+         <reference key="86"></reference>
          <string role="key" value="entity"></string>
          <list>
-          <reference key="85"></reference>
+          <reference key="87"></reference>
          </list>
          <string role="key" value="role"></string>
          <instance class="exe.engine.lom.lomsubs.roleSub">
@@ -6516,7 +6658,7 @@
            <string role="key" value="extensiontype_"></string>
            <none></none>
            <string role="key" value="source"></string>
-           <reference key="86"></reference>
+           <reference key="88"></reference>
            <string role="key" value="uniqueElementName"></string>
            <string value="role"></string>
            <string role="key" value="value"></string>
@@ -6719,10 +6861,6 @@
    <list>
     <reference key="72"></reference>
    </list>
-   <string role="key" value="4f18ad8b0c9c52909932feea1e0bd256"></string>
-   <list>
-    <reference key="87"></reference>
-   </list>
    <string role="key" value="655d5751ff9a7c8195919f859b4d1fe8"></string>
    <list>
     <reference key="31"></reference>
@@ -6742,6 +6880,10 @@
    <string role="key" value="adef2219599b822736492929f7ebb26f"></string>
    <list>
     <reference key="35"></reference>
+   </list>
+   <string role="key" value="b50175bc07f10e786d77208e87241791"></string>
+   <list>
+    <reference key="89"></reference>
    </list>
    <string role="key" value="be389b54da2a0df71b5619c78f19f3c3"></string>
    <list>
