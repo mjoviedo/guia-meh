@@ -110,3 +110,7 @@ padding-top: 0px;
 .emphasis1 {
 margin: 10px;
 }
+
+header {
+background-size: cover;
+}
